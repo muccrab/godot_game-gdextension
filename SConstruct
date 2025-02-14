@@ -5,7 +5,7 @@ import sys
 from methods import print_error
 
 
-libname = "EXTENSION-NAME"
+libname = "godot_card_game"
 projectdir = "demo"
 
 localEnv = Environment(tools=["default"], PLATFORM="")
